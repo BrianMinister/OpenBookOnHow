@@ -20,6 +20,6 @@ This is an exciting time to live in. It is a time where government is trying to 
 
 Please join me in opening the mental gateways, so that we can usher in a bright future where business owners are the heroes, and not the politicians.
 
-Sincerely,
-Brian Webb
-Director Book Development
+Sincerely,<br/>
+Brian Webb<br/>
+Director Book Development<br/>
