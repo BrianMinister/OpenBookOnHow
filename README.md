@@ -1,19 +1,11 @@
 # Open Book On How
 "Open Book on How" is a guide on how to move from state managed society to private managed society
 
-1. Intro
-  A. WHY - The recovery of creative problem solving
-  B. HOW - The nature of using case studies to provide guidence to change.
-2. Invite letter to contributors
-3. Roads
-4. Police
-5. Military and boarder management
-6. Fire Department
-7. Emergency Services
-8. Health and medicine
-9. Family, Retirement, Child Care
-10. Education
-11. TBD
+# Index
+* [Proposed Index](index.md)
+
+# Attachments
+* [Open letter calling for contributors](OpenLetterToContributors.md)
 
 # Contributors:
 * Brian Webb, Without Sin - Excecutive Book Director
