@@ -22,7 +22,7 @@
 
 # Contributors:
 * Brian Webb, Without Sin - Executive Book Director
-* Luis Fernando Borges Mises, Emancipated Human - Book contributor and director
+* Luis Fernando Borges Mises, Emancipated Human - Book contributor, inspiration, and director
 * More to be listed
 
 # Acknowledgements
