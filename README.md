@@ -2,7 +2,7 @@
 "Open Book on How" is a guide on how to move from state managed society to private managed society
 
 # Index
-* [Proposed Index](index.md)
+* [Proposed Index](bookindex.md)
 
 # Attachments
 * [Open letter calling for content contributors](OpenLetterToContributors.md)
