@@ -1,6 +1,17 @@
 # Open Book On How
 "Open Book on How" is a guide on how to move from state managed society to private managed society
 
+## Ideas that are planned for this book.
+* Roads
+* Police
+* Military and boarder management
+* Fire Department
+* Emergency Services 
+* Health and medicine
+* Family, Retirement, Child Care
+* Education 
+* Welfare 
+
 # Index
 * [Proposed Index](bookindex.md)
 
