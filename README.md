@@ -11,6 +11,7 @@
 * Family, Retirement, Child Care
 * Education 
 * Welfare 
+* Justice
 
 # Index
 * [Proposed Index](bookindex.md)
