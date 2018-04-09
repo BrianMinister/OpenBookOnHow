@@ -1,4 +1,4 @@
- # Open Book On How
+# Open Book On How
 "Open Book on How" is a guide on how to move from state managed society to private managed society
 
 # Index
@@ -6,6 +6,7 @@
 
 # Attachments
 * [Open letter calling for content contributors](OpenLetterToContributors.md)
+* [Open letter for fund raising](OpenLetterToFundRaising.md)
 
 # Contributors:
 * Brian Webb, Without Sin - Excecutive Book Director
