@@ -1,4 +1,5 @@
 # Open Book On How
+## AKA: How do we live in a post government world, a practical view.
 "Open Book on How" is a guide on how to move from state managed society to private managed society
 
 ## Ideas that are planned for this book.
